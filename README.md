@@ -25,7 +25,7 @@ DocuMentor is a Retrieval-Augmented Generation (RAG) system for FastAPI docs. As
 **Current: Foundation complete. Next: Scraper (Day 2).**
 
 ## 🛠️ Quick Start
-1. Clone: `git clone https://github.com/yourusername/DocuMentor`
+1. Clone: `git clone https://github.com/jayanth0987/DocuMentor.git`
 2. Env: `conda activate DocuMentor` (Python 3.11)
 3. Install: `pip install -r requirements.txt`
 4. Run: `streamlit run src/app.py`
